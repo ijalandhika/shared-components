@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "core-ui": {
+      "signature": "ac6d88e6e005c417daeb37ef7e81a3d8",
+      "file": true
+    }
+  }
+}

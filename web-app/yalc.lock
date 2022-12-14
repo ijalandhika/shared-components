@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "core-ui": {
+      "version": "0.1.0",
+      "signature": "ac6d88e6e005c417daeb37ef7e81a3d8",
+      "file": true
+    }
+  }
+}
